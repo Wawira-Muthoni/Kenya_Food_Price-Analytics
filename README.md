@@ -1,5 +1,5 @@
 # Kenya Food Price Analytics 
-!(dashboard.PNG)
+![Dashboard Preview](dashboard.PNG)
 ## Overview
 This project analyzes food price trends across Kenya using WFP market price data from 2020 to 2026. It explores how commodity prices have changed over time, which counties have the highest food costs, which commodities are most volatile, and forecasts future maize flour prices using Facebook's Prophet model.
 
